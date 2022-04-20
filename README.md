@@ -1,4 +1,4 @@
 # ArabicBanBot
-ban Arab users who cause spam messages in Israeli groups.
+ban users who cause spam messages in groups.
 
 - **edit the config.py andrun it your self!**
